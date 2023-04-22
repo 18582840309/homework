@@ -1,2 +1,2 @@
 # homework
-#学校作业，课程设计
+adams仿真作业
